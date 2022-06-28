@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Waist maker",
+        "price": 6000,
+        "description": "Make your waist best",
+        "img": "https://i.ibb.co/qCV33ZV/photo-1.png"
+    },
+    {
+        "id": 2,
+        "name": "Chest Maker",
+        "price": 9000,
+        "description": "Making your chest heavy",
+        "img": "https://i.ibb.co/dfvyjrM/photo-3.png"
+    },
+    {
+        "id": 3,
+        "name": "Mini Dumbell",
+        "price": 7000,
+        "description": "Mini dumbell for best for women",
+        "img": "https://i.ibb.co/S0B8zNG/photo-2.png"
+    },
+    {
+        "id": 4,
+        "name": "Weight pusher",
+        "price": 11000,
+        "description": "Weight pusher is best for all",
+        "img": "https://i.ibb.co/KD3XLXf/photo-4.png"
+    },
+    {
+        "id": 5,
+        "name": "Ring Puller",
+        "price": 10000,
+        "description": "Ring puller perfects your finger",
+        "img": "https://i.ibb.co/XY8LP5c/photo-5.png"
+    },
+    {
+        "id": 6,
+        "name": "Weight",
+        "price": 12000,
+        "description": "Weight pulling makes your body strong",
+        "img": "https://i.ibb.co/YcYKTm5/photo-8.png"
+    },
+    {
+        "id": 7,
+        "name": "Rope",
+        "price": 3000,
+        "description": "Rope handler let your arms heavy",
+        "img": "https://i.ibb.co/RP0nTXY/photo-6.png"
+    },
+    {
+        "id": 8,
+        "name": "Weightlifter",
+        "price": 13000,
+        "description": "Weight lifter makes your chest perfect",
+        "img": "https://i.ibb.co/1RcGswC/photo-7.png"
+    },
+    {
+        "id": 9,
+        "name": "Arm puller",
+        "price": 16000,
+        "description": "Your arm will be fit",
+        "img": "https://i.ibb.co/B659Dz8/photo-9.png"
+    },
+    {
+        "id": 10,
+        "name": "Stomach Fresher",
+        "price": 10000,
+        "description": "Its let fresh your stomach",
+        "img": "https://i.ibb.co/HCzKCt5/photo-10.png"
+    },
+    {
+        "id": 11,
+        "name": "Chest maker",
+        "price": 19000,
+        "description": "Its make your chest heavy",
+        "img": " https://i.ibb.co/bPQXJMw/photo-11.png"
+    },
+    {
+        "id": 12,
+        "name": "Puncher",
+        "price": 6500,
+        "description": "Puncher for women",
+        "img": "https://i.ibb.co/GQTkf1P/photo-12.png"
+    }    
+]

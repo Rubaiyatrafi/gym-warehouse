@@ -1,0 +1,9 @@
+.img-style {
+  height: 600px;
+  width: 600px;
+}
+.display-inventory {
+  border: 1px solid lightblue;
+  border-radius: 10px;
+  text-align: center;
+}

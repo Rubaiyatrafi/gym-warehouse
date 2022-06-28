@@ -1,0 +1,15 @@
+.inventory-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+  margin: 20px;
+}
+.title {
+  text-align: center;
+  color: cornflowerblue;
+}
+@media only screen and (max-width: 576px) {
+  .inventory-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
